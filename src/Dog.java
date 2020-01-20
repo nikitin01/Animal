@@ -4,8 +4,4 @@ public class Dog implements Animal {
     public void makeNoise() {
         System.out.println("Гав гав");
     }
-
-    public void eat() {
-        System.out.println("Собака грызет кость");
-    }
 }
